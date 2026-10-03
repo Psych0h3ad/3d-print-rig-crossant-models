@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "scope": "Fixed-length routing preview with rigid native prototype links",
+  "poses": 401,
+  "visible_links_each_pose": 21,
+  "maximum_length_change_mm": 5.684341886080802e-14,
+  "maximum_endpoint_tracking_error_mm": 5.551115123125783e-14,
+  "minimum_neighbor_center_chord_mm": 16.064803564016852,
+  "native_pitch_mm": 16.77,
+  "explicit_visibility_toggle_tested": true,
+  "native_hinge_fit_certified": false,
+  "limitations": [
+    "Source endpoint centres are routing datums, not measured hinge-pin axes",
+    "All prototype links stay rigid, but station/chord spacing differs from native pitch around the curve",
+    "Original endpoint skins and open compound chain remain in source/reference library",
+    "No chain hinge angle or cable packing clearance certification"
+  ]
+}

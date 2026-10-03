@@ -1,0 +1,284 @@
+{
+  "schema": "crossant-belt-bindings-v1",
+  "machine_id": "crossant_235_v06_leadscrew",
+  "count": 4,
+  "belts": [
+    {
+      "key": "crossant_00096",
+      "drive_axis": "Y",
+      "drive_index": 1,
+      "source_bounds_mm": [
+        [
+          153.76483689307221,
+          -166.9137976768535,
+          383.14378105629646
+        ],
+        [
+          179.1932883027194,
+          166.5293809363837,
+          393.1438605829842
+        ]
+      ],
+      "running_axis_centers_mm": [
+        [
+          160.26599163086425,
+          -160.41379551618587,
+          384.14378261986025
+        ],
+        [
+          160.26483719545195,
+          160.029380683064,
+          384.1438590194147
+        ]
+      ],
+      "running_radius_inner_mm": 5.5,
+      "running_radius_outer_mm": 6.5,
+      "width_mm": 10.000079526687728,
+      "thickness_mm": 1,
+      "pitch_mm": 2,
+      "pulley_pitch_radius_mm": 6.366197723675814,
+      "stationary_interval_mm": [
+        -152.41379551618587,
+        152.029380683064
+      ],
+      "clamp_interval_mm": [
+        -8.591805093174752,
+        8.206189546606375
+      ],
+      "clamp_center_mm": [
+        167.2654144153471,
+        -0.19280777328418885,
+        384.1438210430885
+      ],
+      "clamp_part_key": "crossant_00128",
+      "pulley_axis_registration": [
+        {
+          "part_key": "crossant_00095",
+          "axis_error_xy_mm": 0.04849966155864026
+        },
+        {
+          "part_key": "crossant_00092",
+          "axis_error_xy_mm": 0.048502045721259074
+        }
+      ],
+      "phase_sign": 1,
+      "phase_ratio": 1,
+      "geometry_method": "Original CAD tessellation; piecewise affine displacement along straight runs, rigid translation of both clamp bends, fixed pulley cap vertices",
+      "visibility": "always visible during pose changes unless explicitly switched off",
+      "length_invariant": "Fixed caps and translating clamp bends; one straight run gains exactly the length lost by the other",
+      "notes": [
+        "1mm smooth source belt envelope, not a detailed elastic GT2 tooth simulation",
+        "Pulley centers are fixed; moving clamp does not require hiding the source belt",
+        "Small upstream belt-axis offset retained and quantified; hardware is not uniformly scaled"
+      ]
+    },
+    {
+      "key": "crossant_00101",
+      "drive_axis": "Y",
+      "drive_index": 1,
+      "source_bounds_mm": [
+        [
+          -179.15300883835556,
+          -166.90455811979268,
+          382.96018207148404
+        ],
+        [
+          -153.72455742870835,
+          166.5386204934445,
+          392.96026159817177
+        ]
+      ],
+      "running_axis_centers_mm": [
+        [
+          -160.2245574755512,
+          -160.40455595912508,
+          383.96018363504777
+        ],
+        [
+          -160.22571191096355,
+          160.03862024012483,
+          383.9602600346023
+        ]
+      ],
+      "running_radius_inner_mm": 5.5,
+      "running_radius_outer_mm": 6.5,
+      "width_mm": 10.000079526687728,
+      "thickness_mm": 1,
+      "pitch_mm": 2,
+      "pulley_pitch_radius_mm": 6.366197723675814,
+      "stationary_interval_mm": [
+        -152.40455595912508,
+        152.03862024012483
+      ],
+      "clamp_interval_mm": [
+        -8.581364822667474,
+        8.21662981711366
+      ],
+      "clamp_center_mm": [
+        -167.22513469544637,
+        -0.1823675027769074,
+        383.960221611374
+      ],
+      "clamp_part_key": "crossant_00102",
+      "pulley_axis_registration": [
+        {
+          "part_key": "crossant_00100",
+          "axis_error_xy_mm": 2.7792292887848516e-07
+        },
+        {
+          "part_key": "crossant_00099",
+          "axis_error_xy_mm": 1.00098841000954e-05
+        }
+      ],
+      "phase_sign": 1,
+      "phase_ratio": 1,
+      "geometry_method": "Original CAD tessellation; piecewise affine displacement along straight runs, rigid translation of both clamp bends, fixed pulley cap vertices",
+      "visibility": "always visible during pose changes unless explicitly switched off",
+      "length_invariant": "Fixed caps and translating clamp bends; one straight run gains exactly the length lost by the other",
+      "notes": [
+        "1mm smooth source belt envelope, not a detailed elastic GT2 tooth simulation",
+        "Pulley centers are fixed; moving clamp does not require hiding the source belt",
+        "Small upstream belt-axis offset retained and quantified; hardware is not uniformly scaled"
+      ]
+    },
+    {
+      "key": "crossant_00175",
+      "drive_axis": "X",
+      "drive_index": 0,
+      "source_bounds_mm": [
+        [
+          -166.72571151059458,
+          153.53863427594456,
+          360.9597639277698
+        ],
+        [
+          166.7174650378867,
+          178.96708775035472,
+          370.9597772907822
+        ]
+      ],
+      "running_axis_centers_mm": [
+        [
+          -160.22571120821482,
+          160.03863643661208,
+          361.95976549133354
+        ],
+        [
+          160.21746499104387,
+          160.03979087202177,
+          361.95977572721273
+        ]
+      ],
+      "running_radius_inner_mm": 5.5,
+      "running_radius_outer_mm": 6.5,
+      "width_mm": 10.000013363012386,
+      "thickness_mm": 1,
+      "pitch_mm": 2,
+      "pulley_pitch_radius_mm": 6.366197723675814,
+      "stationary_interval_mm": [
+        -152.22571120821482,
+        152.21746499104387
+      ],
+      "clamp_interval_mm": [
+        -8.402520071753045,
+        8.395474568028476
+      ],
+      "clamp_center_mm": [
+        -0.0035227518622846787,
+        167.0392136565057,
+        361.95977227822203
+      ],
+      "clamp_part_key": "crossant_00190",
+      "pulley_axis_registration": [
+        {
+          "part_key": "crossant_00174",
+          "axis_error_xy_mm": 1.6503650020682215e-06
+        },
+        {
+          "part_key": "crossant_00170",
+          "axis_error_xy_mm": 9.782854929468193e-07
+        }
+      ],
+      "phase_sign": 1,
+      "phase_ratio": 1,
+      "geometry_method": "Original CAD tessellation; piecewise affine displacement along straight runs, rigid translation of both clamp bends, fixed pulley cap vertices",
+      "visibility": "always visible during pose changes unless explicitly switched off",
+      "length_invariant": "Fixed caps and translating clamp bends; one straight run gains exactly the length lost by the other",
+      "notes": [
+        "1mm smooth source belt envelope, not a detailed elastic GT2 tooth simulation",
+        "Pulley centers are fixed; moving clamp does not require hiding the source belt",
+        "Small upstream belt-axis offset retained and quantified; hardware is not uniformly scaled"
+      ]
+    },
+    {
+      "key": "crossant_00177",
+      "drive_axis": "X",
+      "drive_index": 0,
+      "source_bounds_mm": [
+        [
+          -166.72455707519282,
+          -179.33184949947835,
+          360.9596875282133
+        ],
+        [
+          166.71861947328847,
+          -153.90339602506816,
+          370.9597008912257
+        ]
+      ],
+      "running_axis_centers_mm": [
+        [
+          -160.2245567728131,
+          -160.4045507137976,
+          361.959689091777
+        ],
+        [
+          160.21861942644563,
+          -160.4033962783879,
+          361.9596993276562
+        ]
+      ],
+      "running_radius_inner_mm": 5.5,
+      "running_radius_outer_mm": 6.5,
+      "width_mm": 10.000013363012386,
+      "thickness_mm": 1,
+      "pitch_mm": 2,
+      "pulley_pitch_radius_mm": 6.366197723675814,
+      "stationary_interval_mm": [
+        -152.2245567728131,
+        152.21861942644563
+      ],
+      "clamp_interval_mm": [
+        -8.402566349797688,
+        8.395428289983826
+      ],
+      "clamp_center_mm": [
+        -0.003569029906930865,
+        -167.40397349828152,
+        361.9596925407677
+      ],
+      "clamp_part_key": "crossant_00204",
+      "pulley_axis_registration": [
+        {
+          "part_key": "crossant_00173",
+          "axis_error_xy_mm": 9.782755712134229e-07
+        },
+        {
+          "part_key": "crossant_00176",
+          "axis_error_xy_mm": 1.6503529486547138e-06
+        }
+      ],
+      "phase_sign": 1,
+      "phase_ratio": 1,
+      "geometry_method": "Original CAD tessellation; piecewise affine displacement along straight runs, rigid translation of both clamp bends, fixed pulley cap vertices",
+      "visibility": "always visible during pose changes unless explicitly switched off",
+      "length_invariant": "Fixed caps and translating clamp bends; one straight run gains exactly the length lost by the other",
+      "notes": [
+        "1mm smooth source belt envelope, not a detailed elastic GT2 tooth simulation",
+        "Pulley centers are fixed; moving clamp does not require hiding the source belt",
+        "Small upstream belt-axis offset retained and quantified; hardware is not uniformly scaled"
+      ]
+    }
+  ],
+  "visibility_owner": "explicit belt toggle only"
+}

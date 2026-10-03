@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "machine_id": "crossant_235_v06_leadscrew",
+  "poses": 1336,
+  "grid": "11x11x11 nominal range, reference, extreme jumps and restore",
+  "part_transform_checks": 2908472,
+  "belt_vertex_checks": 3334656,
+  "belt_triangle_checks": 3056768,
+  "visible_belts_each_pose": 4,
+  "maximum_fixed_cap_displacement_mm": 0,
+  "maximum_clamp_tracking_error_mm": 0.000007320907855046244,
+  "explicit_visibility_toggle_tested": true,
+  "auxiliary_group_and_palette_changes_preserve_belts": true,
+  "reference_restore_bit_exact": true,
+  "invalid_pose_rejections": 5,
+  "limitations": [
+    "Finite sampling; no elastic belt or drive polarity calibration",
+    "Triangle validity and native clamp tracking do not certify contact pressure or physical belt tension"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "method": "Whole buffer-view bytes copied without vertex/index/normal changes; every view SHA256 verified after write",
+  "main": "web/model.gltf",
+  "buffer_count": 7,
+  "buffer_view_count": 3336,
+  "maximum_buffer_bytes": 16774284,
+  "total_buffer_bytes": 110752140,
+  "node_count": 2177,
+  "material_color_conversion": "sRGB-to-linear-v1",
+  "source_glb_sha256": "b7eb3f6def6dc29c20f060032013a4399ccfba6337b6bc6cf75f768a7193e35c",
+  "buffers": [
+    {
+      "file": "geometry_00.bin",
+      "bytes": 16758192,
+      "sha256": "b07507c3643f67ec30774ffd3c513c4d21fa94e517ac1375868a26d9a7312eae"
+    },
+    {
+      "file": "geometry_01.bin",
+      "bytes": 15884412,
+      "sha256": "8dbfbc429545589611e0ff444fe98126f1d9f6f8623ecda536eaf43bd7d38962"
+    },
+    {
+      "file": "geometry_02.bin",
+      "bytes": 16774284,
+      "sha256": "5460afdcd6e7b937cfa10ab18fd961117852e8fb59f60577f57bb20e078a471a"
+    },
+    {
+      "file": "geometry_03.bin",
+      "bytes": 16311456,
+      "sha256": "16150608f6fdf184cbef5986f019bdf349643f4bf81c1f924a6f57210d6a95c9"
+    },
+    {
+      "file": "geometry_04.bin",
+      "bytes": 16703028,
+      "sha256": "0271af27bdd977b9f472b3641eca0c15ed9b919390ac0c58e9c4f7a28e85136f"
+    },
+    {
+      "file": "geometry_05.bin",
+      "bytes": 16725972,
+      "sha256": "fc49a2530b3bacb1eea87f8af890ce27e95ea16dfc3c6f6b6acccfcfb9318f06"
+    },
+    {
+      "file": "geometry_06.bin",
+      "bytes": 11594796,
+      "sha256": "c2124613693a575a8e3789b38b5e9114bc6b63a069d98fc1573c001cba2c245a"
+    }
+  ],
+  "references_preserved": [
+    "Scene/node/mesh/part keys",
+    "Original placed positions, normals and indices",
+    "Accessors, materials and motion metadata"
+  ]
+}

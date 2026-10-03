@@ -1,0 +1,8556 @@
+{
+  "schema": "crossant-rigid-clearance-v1",
+  "machine_id": "crossant_235_v06_leadscrew",
+  "passed": true,
+  "method": "OCC closed-solid intersection volume, cross-motion groups. Unresolved source solids/open duct use conservative AABB solids.",
+  "pose_count": 846,
+  "poses": [
+    {
+      "pose_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 28,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 14,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 14,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 14,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 14,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 5,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 4,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 4,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 3,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 3,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 4,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 3,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 4,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 3,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 5,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 4,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 6,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        0.0,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 10,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 1,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 1,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 1,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 38,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 1,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 40,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 1,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 39,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 41,
+      "new_brep_checks": 2,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 41,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 41,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 41,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        13.948333333333332,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 41,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        27.896666666666665,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        41.845,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        55.79333333333333,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        69.74166666666666,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        83.69,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        97.63833333333332,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        111.58666666666666,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        125.535,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        139.48333333333332,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        153.43166666666664,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        0.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 7,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        0.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        0.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        0.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        0.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        18.333333333333332,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        18.333333333333332,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        18.333333333333332,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        18.333333333333332,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        18.333333333333332,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        36.666666666666664,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        36.666666666666664,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        36.666666666666664,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        36.666666666666664,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        36.666666666666664,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        55.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        55.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        55.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        55.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        55.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        73.33333333333333,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        73.33333333333333,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        73.33333333333333,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        73.33333333333333,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        73.33333333333333,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        91.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        91.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        91.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        91.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        91.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        110.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        110.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        110.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        110.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        110.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        128.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        128.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        128.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        128.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        128.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        146.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        146.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        146.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        146.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        146.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        165.0,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        165.0,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        165.0,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        165.0,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        165.0,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        183.33333333333331,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        183.33333333333331,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        183.33333333333331,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        183.33333333333331,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        183.33333333333331,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        201.66666666666666,
+        0.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        201.66666666666666,
+        50.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        201.66666666666666,
+        100.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        201.66666666666666,
+        150.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        201.66666666666666,
+        200.0
+      ],
+      "aabb_candidates": 36,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        220.0,
+        0.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        220.0,
+        50.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        220.0,
+        100.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        220.0,
+        150.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        167.38,
+        220.0,
+        200.0
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 0,
+      "overlap_pairs": 0
+    },
+    {
+      "pose_mm": [
+        81.51854054931088,
+        104.7146036279744,
+        92.77468404496983
+      ],
+      "aabb_candidates": 37,
+      "new_brep_checks": 25,
+      "overlap_pairs": 0
+    }
+  ],
+  "unique_brep_checks": 251,
+  "guide_mating_pairs": [
+    {
+      "block_key": "crossant_00130",
+      "rail_key": "crossant_00147",
+      "reason": "Intended matched native linear guide pair; race/contact geometry is not free-space clearance"
+    },
+    {
+      "block_key": "crossant_00166",
+      "rail_key": "crossant_00167",
+      "reason": "Intended matched native linear guide pair; race/contact geometry is not free-space clearance"
+    },
+    {
+      "block_key": "crossant_00230",
+      "rail_key": "crossant_00231",
+      "reason": "Intended matched native linear guide pair; race/contact geometry is not free-space clearance"
+    },
+    {
+      "block_key": "crossant_00247",
+      "rail_key": "crossant_00249",
+      "reason": "Intended matched native linear guide pair; race/contact geometry is not free-space clearance"
+    },
+    {
+      "block_key": "crossant_00460",
+      "rail_key": "crossant_00477",
+      "reason": "Intended matched native linear guide pair; race/contact geometry is not free-space clearance"
+    },
+    {
+      "block_key": "crossant_00533",
+      "rail_key": "crossant_00534",
+      "reason": "Intended matched native linear guide pair; race/contact geometry is not free-space clearance"
+    },
+    {
+      "block_key": "crossant_00589",
+      "rail_key": "crossant_00606",
+      "reason": "Intended matched native linear guide pair; race/contact geometry is not free-space clearance"
+    },
+    {
+      "block_key": "crossant_02211",
+      "rail_key": "crossant_02214",
+      "reason": "Intended matched native linear guide pair; race/contact geometry is not free-space clearance"
+    },
+    {
+      "block_key": "crossant_02212",
+      "rail_key": "crossant_02213",
+      "reason": "Intended matched native linear guide pair; race/contact geometry is not free-space clearance"
+    }
+  ],
+  "excluded_threaded_mating_pairs": [
+    {
+      "parts": [
+        "crossant_00479",
+        "crossant_00498"
+      ],
+      "reason": "Intended T8x8 threaded nut/shaft joint. Thread seam is a reference surface and occupied shaft AABB is conservative. Thread rotation/mesh contact is not certified."
+    },
+    {
+      "parts": [
+        "crossant_00540",
+        "crossant_00545"
+      ],
+      "reason": "Intended T8x8 threaded nut/shaft joint. Thread seam is a reference surface and occupied shaft AABB is conservative. Thread rotation/mesh contact is not certified."
+    },
+    {
+      "parts": [
+        "crossant_00608",
+        "crossant_00627"
+      ],
+      "reason": "Intended T8x8 threaded nut/shaft joint. Thread seam is a reference surface and occupied shaft AABB is conservative. Thread rotation/mesh contact is not certified."
+    }
+  ],
+  "findings": [],
+  "kernel_errors": [],
+  "overlap_threshold_mm3": 0.005,
+  "elapsed_seconds": 139.1325662136078,
+  "scope": [
+    "Selected source Leadscrew-Z + Sherpa-Mini/Goliath-WIP configuration",
+    "Fixed frame, two crossing beams, XY toolhead and rigid bed motion"
+  ],
+  "limitations": [
+    "Finite samples, not continuous swept-volume proof",
+    "Same-motion-group mounting fits not included",
+    "Dynamic belts have separate mesh and clamp QA, not elastic/tooth contact certification",
+    "Cable chain has a separate routing preview; link and CPAP/PTFE interference not certified",
+    "Z_TILT, enclosure hinges and alternative modules are not included",
+    "Conservative reference AABB hits require native-geometry review rather than being asserted as a physical collision"
+  ]
+}

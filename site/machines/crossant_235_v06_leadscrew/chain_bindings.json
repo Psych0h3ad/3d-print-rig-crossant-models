@@ -1,0 +1,56 @@
+{
+  "schema": "crossant-chain-preview-v1",
+  "fixed_center_mm": [
+    -66.91042868754141,
+    184.5239422070203,
+    51.228216483391456
+  ],
+  "bed_center_mm": [
+    -26.281328585259036,
+    184.5239422070203,
+    184.91751571786418
+  ],
+  "centerline_length_mm": 330.3185137314382,
+  "reference_bend_z_mm": 251.32210236552325,
+  "reference_radius_mm": 20.31455005114119,
+  "prototype_key": "crossant_00561",
+  "prototype_center_mm": [
+    -67.12942997122242,
+    184.35900057986657,
+    150.45047211208453
+  ],
+  "link_instances": 21,
+  "native_pitch_mm": 16.77,
+  "preview_station_pitch_mm": 16.51592568657191,
+  "reference_keys": [
+    "crossant_00560",
+    "crossant_00561",
+    "crossant_00562",
+    "crossant_00563",
+    "crossant_00564",
+    "crossant_00565",
+    "crossant_00566",
+    "crossant_00567",
+    "crossant_00568",
+    "crossant_00569",
+    "crossant_00570",
+    "crossant_00571",
+    "crossant_00572",
+    "crossant_00573",
+    "crossant_00574",
+    "crossant_00575",
+    "crossant_00576"
+  ],
+  "source_endpoint_keys": [
+    "crossant_00568",
+    "crossant_00576"
+  ],
+  "status": "fixed-length routing and native-link visual preview; source hinge mating/limit is not certified",
+  "registration_method": "Native endpoint bounding centres and midpoint of central curve link; no hardware scaling",
+  "limitations": [
+    "Source endpoint centres are routing datums, not measured hinge-pin axes",
+    "All prototype links stay rigid, but station/chord spacing differs from native pitch around the curve",
+    "Original endpoint skins and open compound chain remain in source/reference library",
+    "No chain hinge angle or cable packing clearance certification"
+  ]
+}

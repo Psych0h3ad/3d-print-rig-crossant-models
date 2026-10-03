@@ -1,0 +1,364 @@
+{
+  "nominal_grid_findings": [
+    {
+      "part_a": "crossant_00213",
+      "name_a": "SOLID",
+      "motion_a": "fixed",
+      "part_b": "crossant_00230",
+      "name_b": "MGN9H_carriage",
+      "motion_b": "x",
+      "relative_translation_mm": [
+        138.4814595,
+        0.0,
+        0.0
+      ],
+      "first_pose_mm": [
+        220,
+        0,
+        0
+      ],
+      "intersection_volume_mm3": 422.1562770465453,
+      "representation_a": "native_closed",
+      "representation_b": "native_closed"
+    },
+    {
+      "part_a": "crossant_00304",
+      "name_a": "Limit Switch (1)",
+      "motion_a": "fixed",
+      "part_b": "crossant_00191",
+      "name_b": "XY Joint",
+      "motion_b": "x",
+      "relative_translation_mm": [
+        138.4814595,
+        0.0,
+        0.0
+      ],
+      "first_pose_mm": [
+        220,
+        0,
+        0
+      ],
+      "intersection_volume_mm3": 16.979734026747,
+      "representation_a": "native_closed",
+      "representation_b": "native_closed"
+    },
+    {
+      "part_a": "crossant_00304",
+      "name_a": "Limit Switch (1)",
+      "motion_a": "fixed",
+      "part_b": "crossant_02275",
+      "name_b": "Backer V0.01",
+      "motion_b": "x",
+      "relative_translation_mm": [
+        138.4814595,
+        0.0,
+        0.0
+      ],
+      "first_pose_mm": [
+        220,
+        0,
+        0
+      ],
+      "intersection_volume_mm3": 5.168653073600795,
+      "representation_a": "native_closed",
+      "representation_b": "native_closed"
+    },
+    {
+      "part_a": "crossant_00318",
+      "name_a": "SOLID",
+      "motion_a": "fixed",
+      "part_b": "crossant_02129",
+      "name_b": "Sherpa Mini",
+      "motion_b": "xy",
+      "relative_translation_mm": [
+        138.4814595,
+        -104.7146036,
+        0.0
+      ],
+      "first_pose_mm": [
+        220,
+        0,
+        0
+      ],
+      "intersection_volume_mm3": 0.8757915710083527,
+      "representation_a": "native_closed",
+      "representation_b": "native_closed"
+    },
+    {
+      "part_a": "crossant_01024",
+      "name_a": "M2X10 SHCS",
+      "motion_a": "fixed",
+      "part_b": "crossant_02129",
+      "name_b": "Sherpa Mini",
+      "motion_b": "xy",
+      "relative_translation_mm": [
+        138.4814595,
+        -104.7146036,
+        0.0
+      ],
+      "first_pose_mm": [
+        220,
+        0,
+        0
+      ],
+      "intersection_volume_mm3": 50.754949059913756,
+      "representation_a": "native_closed",
+      "representation_b": "native_closed"
+    },
+    {
+      "part_a": "crossant_01026",
+      "name_a": "PCB Protector",
+      "motion_a": "fixed",
+      "part_b": "crossant_02129",
+      "name_b": "Sherpa Mini",
+      "motion_b": "xy",
+      "relative_translation_mm": [
+        138.4814595,
+        -104.7146036,
+        0.0
+      ],
+      "first_pose_mm": [
+        220,
+        0,
+        0
+      ],
+      "intersection_volume_mm3": 391.95134409928954,
+      "representation_a": "native_closed",
+      "representation_b": "native_closed"
+    },
+    {
+      "part_a": "crossant_01027",
+      "name_a": "Raspi Cam",
+      "motion_a": "fixed",
+      "part_b": "crossant_02129",
+      "name_b": "Sherpa Mini",
+      "motion_b": "xy",
+      "relative_translation_mm": [
+        138.4814595,
+        -104.7146036,
+        0.0
+      ],
+      "first_pose_mm": [
+        220,
+        0,
+        0
+      ],
+      "intersection_volume_mm3": 176.46960575141088,
+      "representation_a": "native_closed",
+      "representation_b": "native_closed"
+    }
+  ],
+  "interior_and_corner_contact_probes": [
+    {
+      "axis": "X",
+      "parts": [
+        "crossant_00213",
+        "crossant_00230"
+      ],
+      "names": [
+        "SOLID",
+        "MGN9H_carriage"
+      ],
+      "last_sample_below_volume_threshold_mm": 213.67033063072907,
+      "first_sample_above_volume_threshold_mm": 213.67085889557376,
+      "margin_mm": 0.5,
+      "candidate_maximum_mm": 213.17,
+      "status": "source contact or rigid overlap; mechanical switch actuation and actual homing datum uncalibrated"
+    },
+    {
+      "axis": "X",
+      "parts": [
+        "crossant_00304",
+        "crossant_00191"
+      ],
+      "names": [
+        "Limit Switch (1)",
+        "XY Joint"
+      ],
+      "last_sample_below_volume_threshold_mm": 216.76649088555268,
+      "first_sample_above_volume_threshold_mm": 216.7670191503974,
+      "margin_mm": 0.5,
+      "candidate_maximum_mm": 216.26,
+      "status": "source contact or rigid overlap; mechanical switch actuation and actual homing datum uncalibrated"
+    },
+    {
+      "axis": "X",
+      "parts": [
+        "crossant_00304",
+        "crossant_02275"
+      ],
+      "names": [
+        "Limit Switch (1)",
+        "Backer V0.01"
+      ],
+      "last_sample_below_volume_threshold_mm": 217.70627404428524,
+      "first_sample_above_volume_threshold_mm": 217.70680230912996,
+      "margin_mm": 0.5,
+      "candidate_maximum_mm": 217.2,
+      "status": "source contact or rigid overlap; mechanical switch actuation and actual homing datum uncalibrated"
+    },
+    {
+      "axis": "X",
+      "parts": [
+        "crossant_00087",
+        "crossant_00180"
+      ],
+      "names": [
+        "Grommet C",
+        "M3x35 SHCS"
+      ],
+      "fixed_yz_mm": [
+        0.0,
+        0.0
+      ],
+      "first_contact_bracket_mm": [
+        186.67380863444015,
+        186.67467602539065
+      ],
+      "coarse_samples": 31,
+      "margin_mm": 0.5,
+      "candidate_maximum_mm": 186.17,
+      "status": "First known sampled contact; flexible grommet compression and camera relocation not assumed"
+    },
+    {
+      "axis": "X",
+      "parts": [
+        "crossant_00087",
+        "crossant_00191"
+      ],
+      "names": [
+        "Grommet C",
+        "XY Joint"
+      ],
+      "fixed_yz_mm": [
+        0.0,
+        0.0
+      ],
+      "first_contact_bracket_mm": [
+        167.8956619466146,
+        167.89652933756514
+      ],
+      "coarse_samples": 31,
+      "margin_mm": 0.5,
+      "candidate_maximum_mm": 167.39,
+      "status": "First known sampled contact; flexible grommet compression and camera relocation not assumed"
+    },
+    {
+      "axis": "X",
+      "parts": [
+        "crossant_00087",
+        "crossant_02275"
+      ],
+      "names": [
+        "Grommet C",
+        "Backer V0.01"
+      ],
+      "fixed_yz_mm": [
+        0.0,
+        0.0
+      ],
+      "first_contact_bracket_mm": [
+        167.88525325520834,
+        167.88612064615887
+      ],
+      "coarse_samples": 31,
+      "margin_mm": 0.5,
+      "candidate_maximum_mm": 167.38,
+      "status": "First known sampled contact; flexible grommet compression and camera relocation not assumed"
+    },
+    {
+      "axis": "X",
+      "parts": [
+        "crossant_01024",
+        "crossant_02129"
+      ],
+      "names": [
+        "M2X10 SHCS",
+        "Sherpa Mini"
+      ],
+      "fixed_yz_mm": [
+        0.0,
+        0.0
+      ],
+      "first_contact_bracket_mm": [
+        206.73916349283854,
+        206.74003088378907
+      ],
+      "coarse_samples": 31,
+      "margin_mm": 0.5,
+      "candidate_maximum_mm": 206.23,
+      "status": "First known sampled contact; flexible grommet compression and camera relocation not assumed"
+    },
+    {
+      "axis": "X",
+      "parts": [
+        "crossant_01025",
+        "crossant_02129"
+      ],
+      "names": [
+        "Picam Mount",
+        "Sherpa Mini"
+      ],
+      "fixed_yz_mm": [
+        0.0,
+        0.0
+      ],
+      "first_contact_bracket_mm": [
+        211.08132259114583,
+        211.08218998209634
+      ],
+      "coarse_samples": 31,
+      "margin_mm": 0.5,
+      "candidate_maximum_mm": 210.58,
+      "status": "First known sampled contact; flexible grommet compression and camera relocation not assumed"
+    },
+    {
+      "axis": "X",
+      "parts": [
+        "crossant_01026",
+        "crossant_02129"
+      ],
+      "names": [
+        "PCB Protector",
+        "Sherpa Mini"
+      ],
+      "fixed_yz_mm": [
+        0.0,
+        0.0
+      ],
+      "first_contact_bracket_mm": [
+        206.97596122233074,
+        206.97682861328127
+      ],
+      "coarse_samples": 31,
+      "margin_mm": 0.5,
+      "candidate_maximum_mm": 206.47,
+      "status": "First known sampled contact; flexible grommet compression and camera relocation not assumed"
+    },
+    {
+      "axis": "X",
+      "parts": [
+        "crossant_01027",
+        "crossant_02129"
+      ],
+      "names": [
+        "Raspi Cam",
+        "Sherpa Mini"
+      ],
+      "fixed_yz_mm": [
+        0.0,
+        0.0
+      ],
+      "first_contact_bracket_mm": [
+        210.57910323079426,
+        210.5799706217448
+      ],
+      "coarse_samples": 31,
+      "margin_mm": 0.5,
+      "candidate_maximum_mm": 210.07,
+      "status": "First known sampled contact; flexible grommet compression and camera relocation not assumed"
+    }
+  ],
+  "interpretation": "Source rigid overlap findings retained. Some contacts involve a compressible grommet or switch; no physical deformation/calibration is assumed.",
+  "nominal_grid_pose_count": 28
+}

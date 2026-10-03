@@ -1,0 +1,214 @@
+{
+  "schema": "crossant-import-v1",
+  "machine_id": "crossant_235_v06_leadscrew",
+  "label": "Crossant-235 / V0.6 archive / Leadscrew Z / Sherpa Mini + source Goliath",
+  "source_revision": {
+    "archive": "V0.6",
+    "root_label": "Crossant v0.5.4 panelsupdate v11",
+    "commit": "e9409a087233f3ec95354594fe9b9cd9357b4ac5"
+  },
+  "cad_units": "mm",
+  "cad_axes": [
+    "X right",
+    "Y rear",
+    "Z up"
+  ],
+  "origin": "Main extrusion XY centre, lowest main extrusion Z=0",
+  "source_to_world_rotation": [
+    [
+      0,
+      0,
+      -1
+    ],
+    [
+      -1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ]
+  ],
+  "source_to_world_translation_mm": [
+    544.9283311404556,
+    168.32060321084217,
+    1039.168256047143
+  ],
+  "frame_outer_mm": [
+    390.0000613602953,
+    390.0001734069245,
+    530.0011033691824
+  ],
+  "build_surface_mm": [
+    235,
+    235
+  ],
+  "build_area_mm": [
+    220,
+    220
+  ],
+  "build_area_min_xy_mm": [
+    -109.5908988697355,
+    -133.97685336610311
+  ],
+  "bed_center_xy_mm": [
+    0.4091011302645029,
+    -23.976853366103107
+  ],
+  "bed_top_world_z_mm": 217.60873257029516,
+  "nozzle_tip_mm": [
+    -28.07235832042461,
+    -29.26224973812872,
+    310.383416615265
+  ],
+  "nozzle_tip_measurement": {
+    "part_key": "crossant_02289",
+    "face_index": 23,
+    "method": "Centre of the lowest native nozzle-exit annulus plane; source nozzle slightly tilted",
+    "exit_face_area_mm2": 0.45536227836251447
+  },
+  "display_reference_xyz_mm": [
+    81.51854054931088,
+    104.7146036279744,
+    92.77468404496983
+  ],
+  "display_limits_mm": {
+    "X": [
+      0,
+      220
+    ],
+    "Y": [
+      0,
+      220
+    ],
+    "Z": [
+      0,
+      200
+    ]
+  },
+  "kinematics": "cross_cartesian_four_xy_motors",
+  "drive": {
+    "X": {
+      "motors": 2,
+      "pitch_mm": 2,
+      "pulley_teeth": 20
+    },
+    "Y": {
+      "motors": 2,
+      "pitch_mm": 2,
+      "pulley_teeth": 20
+    },
+    "Z": {
+      "motors": 3,
+      "type": "T8x8",
+      "lead_mm": 8,
+      "bed_sign": -1
+    }
+  },
+  "motion_bindings": {
+    "x": [
+      "X"
+    ],
+    "y": [
+      "Y"
+    ],
+    "xy": [
+      "X",
+      "Y"
+    ],
+    "z_bed": [
+      "Z"
+    ],
+    "fixed": []
+  },
+  "motion_signs": {
+    "X": 1,
+    "Y": 1,
+    "Z": -1
+  },
+  "head": {
+    "extruder": "Sherpa Mini (source compound)",
+    "hotend": "Goliath Air label; nested source Water assembly",
+    "status": "upstream Toolhead-WIP, fit details require review"
+  },
+  "glb_vertex_mapping": "[cad_x,cad_z,-cad_y]*0.001",
+  "glb_nodes": "World placement baked into vertices; identity node transforms",
+  "firmware_available": false,
+  "homing_calibration": "not provided upstream; no G28 or IO replay",
+  "z_tilt": {
+    "supports_three_Z_drives": true,
+    "geometric_tilt_registration": "pending",
+    "enabled_in_adapter": false
+  },
+  "appearance": {
+    "storage_key": "crossant_235_v06_leadscrew-appearance-v1",
+    "palette_defaults": {
+      "base": "#0e1011",
+      "accent": "#f27306",
+      "frame": "#090a0c"
+    }
+  },
+  "belts": {
+    "count": 4,
+    "width_mm": 10,
+    "thickness_source_mm": 1,
+    "status": "source-preserving clamp deformation",
+    "visible_during_motion": true,
+    "visibility_owner": "explicit user belt visibility only; pose/variant settings never hide belts",
+    "keys": [
+      "crossant_00096",
+      "crossant_00101",
+      "crossant_00175",
+      "crossant_00177"
+    ],
+    "bindings": "belt_bindings.json"
+  },
+  "chain": {
+    "status": "dedicated dynamic routing preview; source link joints not certified",
+    "native_reference_keys": [
+      "crossant_00560",
+      "crossant_00561",
+      "crossant_00562",
+      "crossant_00563",
+      "crossant_00564",
+      "crossant_00565",
+      "crossant_00566",
+      "crossant_00567",
+      "crossant_00568",
+      "crossant_00569",
+      "crossant_00570",
+      "crossant_00571",
+      "crossant_00572",
+      "crossant_00573",
+      "crossant_00574",
+      "crossant_00575",
+      "crossant_00576"
+    ],
+    "bindings": "chain_bindings.json",
+    "visible_during_motion": true
+  },
+  "limitations": [
+    "Upstream archive V0.6 contains a differently named V0.5.4 root and WIP toolhead",
+    "Belted-Z full assembly absent; one rear idler assembly and STLs available as options",
+    "No live machine or homing calibration",
+    "No tension, elastic deformation, extrusion, electrical IO, CPAP/PTFE flex or articulated enclosure certification",
+    "Named leaves preserve their first available uniform source colour; original multicolour CAD remains available in the upstream STEP"
+  ],
+  "sampled_clearance_limits_mm": {
+    "X": [
+      0,
+      167.38
+    ],
+    "Y": [
+      0,
+      220
+    ],
+    "Z": [
+      0,
+      200
+    ]
+  },
+  "sampled_clearance_status": "846 finite sampled poses without detected cross-motion rigid overlap; physical homing/flexible contact/continuous sweep uncalibrated"
+}

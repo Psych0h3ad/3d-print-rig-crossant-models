@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "scope": "Native guide block longitudinal AABB within its matched native rail, finite poses only",
+  "poses": 846,
+  "matched_guides": 9,
+  "minimum_longitudinal_margin_mm": 10.088173921796823,
+  "errors": [],
+  "limitations": [
+    "AABB longitudinal containment does not certify bearing race fits, fasteners or physical endstop clearance"
+  ]
+}
