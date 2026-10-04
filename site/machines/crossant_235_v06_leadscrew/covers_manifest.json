@@ -1,0 +1,630 @@
+{
+  "schema": "crossant-dxf-covers-v1",
+  "machine_id": "crossant_235_v06_leadscrew",
+  "parts": [
+    {
+      "key": "crossant_dxf_leftpanel",
+      "name": "leftpanel",
+      "source_path": "DXFs/Backpack/leftpanel.dxf",
+      "source_sha256": "ae890b368476e9d685501cc3ac8435cafb092429408d73782e0f470d8d261d98",
+      "bounds_mm": [
+        [
+          -200.0,
+          -194.99999999999946,
+          -3.108624468950438e-14
+        ],
+        [
+          -197.0,
+          195.00000000000068,
+          530.0000000000001
+        ]
+      ],
+      "motion": "fixed",
+      "inner_plane_mm": 197,
+      "frame_gap_mm": 2,
+      "outward_normal": [
+        -1,
+        0,
+        0
+      ],
+      "reference_thickness_mm": 3,
+      "holes": [
+        {
+          "center_mm": [
+            -197.0,
+            184.9999999999995,
+            265.0000000000003
+          ],
+          "radius_mm": 2.0500000000000007
+        },
+        {
+          "center_mm": [
+            -197.0,
+            185.00000000000017,
+            519.9999999999993
+          ],
+          "radius_mm": 2.0500000000000007
+        },
+        {
+          "center_mm": [
+            -197.0,
+            1.1368683772161603e-13,
+            520.0
+          ],
+          "radius_mm": 2.049999999999983
+        },
+        {
+          "center_mm": [
+            -197.0,
+            -184.99999999999974,
+            520.0000000000005
+          ],
+          "radius_mm": 2.049999999999983
+        },
+        {
+          "center_mm": [
+            -197.0,
+            -185.00000000000043,
+            264.9999999999996
+          ],
+          "radius_mm": 2.050000000000054
+        },
+        {
+          "center_mm": [
+            -197.0,
+            -185.00000000000117,
+            10.000000000000455
+          ],
+          "radius_mm": 2.049999999999983
+        },
+        {
+          "center_mm": [
+            -197.0,
+            -1.1652900866465643e-12,
+            9.999999999999972
+          ],
+          "radius_mm": 2.0500000000000185
+        },
+        {
+          "center_mm": [
+            -197.0,
+            184.99999999999883,
+            9.999999999999403
+          ],
+          "radius_mm": 2.0499999999999963
+        }
+      ],
+      "closed_wires": 10,
+      "profile_area_mm2": 206314.55278460906,
+      "volume_mm3": 618943.6583538272,
+      "transparent": true
+    },
+    {
+      "key": "crossant_dxf_rightpanel",
+      "name": "rightpanel",
+      "source_path": "DXFs/Backpack/rightpanel.dxf",
+      "source_sha256": "5d1d782e8237ed7d110f712c8fee92f7cc79c3a6d9feeb0acd309269bf17e3a0",
+      "bounds_mm": [
+        [
+          197.0,
+          -195.00000000000577,
+          -2.0747847884194925e-12
+        ],
+        [
+          200.0,
+          195.00000000000955,
+          530.0000000000018
+        ]
+      ],
+      "motion": "fixed",
+      "inner_plane_mm": 197,
+      "frame_gap_mm": 2,
+      "outward_normal": [
+        1,
+        0,
+        0
+      ],
+      "reference_thickness_mm": 3,
+      "holes": [
+        {
+          "center_mm": [
+            197.0,
+            185.00000000000597,
+            265.0000000000016
+          ],
+          "radius_mm": 2.0500000000000007
+        },
+        {
+          "center_mm": [
+            197.0,
+            185.0000000000047,
+            520.0000000000013
+          ],
+          "radius_mm": 2.0500000000000007
+        },
+        {
+          "center_mm": [
+            197.0,
+            -6.536993168992922e-13,
+            520.0000000000003
+          ],
+          "radius_mm": 2.049999999999983
+        },
+        {
+          "center_mm": [
+            197.0,
+            -185.00000000000577,
+            519.9999999999995
+          ],
+          "radius_mm": 2.049999999999983
+        },
+        {
+          "center_mm": [
+            197.0,
+            -185.00000000000463,
+            264.99999999999807
+          ],
+          "radius_mm": 2.050000000000054
+        },
+        {
+          "center_mm": [
+            197.0,
+            -185.00000000000333,
+            9.999999999998636
+          ],
+          "radius_mm": 2.049999999999983
+        },
+        {
+          "center_mm": [
+            197.0,
+            1.9895196601282805e-12,
+            9.999999999999488
+          ],
+          "radius_mm": 2.0500000000000185
+        },
+        {
+          "center_mm": [
+            197.0,
+            185.00000000000725,
+            10.000000000000341
+          ],
+          "radius_mm": 2.0499999999999963
+        }
+      ],
+      "closed_wires": 10,
+      "profile_area_mm2": 206314.55278461525,
+      "volume_mm3": 618943.6583538457,
+      "transparent": true
+    },
+    {
+      "key": "crossant_dxf_rearpanel",
+      "name": "rearpanel",
+      "source_path": "DXFs/Backpack/rearpanel.dxf",
+      "source_sha256": "bea1b968481da80259a369c5db5b1ad8ffd498c1bfbacb7a4650cba60cadd5e5",
+      "bounds_mm": [
+        [
+          -195.16043837531572,
+          200.0,
+          0.14655946178098134
+        ],
+        [
+          195.8400311340106,
+          203.0,
+          529.6299172393838
+        ]
+      ],
+      "motion": "fixed",
+      "inner_plane_mm": 200,
+      "frame_gap_mm": 5,
+      "outward_normal": [
+        0,
+        1,
+        0
+      ],
+      "reference_thickness_mm": 3,
+      "holes": [
+        {
+          "center_mm": [
+            184.83956162468445,
+            200.0,
+            264.88823835058645
+          ],
+          "radius_mm": 2.1000000000000085
+        },
+        {
+          "center_mm": [
+            -185.1604383753155,
+            200.0,
+            264.88823835057826
+          ],
+          "radius_mm": 2.1000000000000085
+        },
+        {
+          "center_mm": [
+            -84.61139087457116,
+            200.0,
+            112.01282011070023
+          ],
+          "radius_mm": 2.550000000000008
+        },
+        {
+          "center_mm": [
+            88.85883671336484,
+            200.0,
+            112.0128201107049
+          ],
+          "radius_mm": 2.5500000000000256
+        },
+        {
+          "center_mm": [
+            30.595564484442832,
+            200.0,
+            112.01282011070336
+          ],
+          "radius_mm": 2.55
+        },
+        {
+          "center_mm": [
+            -26.634928251076815,
+            200.0,
+            112.01282011070188
+          ],
+          "radius_mm": 2.5500000000000167
+        },
+        {
+          "center_mm": [
+            -155.16043837531026,
+            200.0,
+            276.5397374004108
+          ],
+          "radius_mm": 2.049999999999983
+        },
+        {
+          "center_mm": [
+            -155.16043837530708,
+            200.0,
+            126.53973740041081
+          ],
+          "radius_mm": 2.049999999999983
+        },
+        {
+          "center_mm": [
+            155.83957297736282,
+            200.0,
+            276.5397374004193
+          ],
+          "radius_mm": 2.0547499999999985
+        },
+        {
+          "center_mm": [
+            155.83957297737328,
+            200.0,
+            126.53973740041928
+          ],
+          "radius_mm": 2.0547499999999985
+        },
+        {
+          "center_mm": [
+            54.69507057443218,
+            200.0,
+            490.9206206006711
+          ],
+          "radius_mm": 2.0999999999999996
+        },
+        {
+          "center_mm": [
+            184.83956162468445,
+            200.0,
+            519.646559461789
+          ],
+          "radius_mm": 2.1000000000000085
+        },
+        {
+          "center_mm": [
+            69.83956162468445,
+            200.0,
+            519.6465594617865
+          ],
+          "radius_mm": 2.1000000000000085
+        },
+        {
+          "center_mm": [
+            184.83956162469332,
+            200.0,
+            111.64655946178917
+          ],
+          "radius_mm": 2.1000000000000085
+        },
+        {
+          "center_mm": [
+            184.83956162469553,
+            200.0,
+            9.646559461789252
+          ],
+          "radius_mm": 2.099999999999973
+        },
+        {
+          "center_mm": [
+            -185.16043837530447,
+            200.0,
+            9.646559461781209
+          ],
+          "radius_mm": 2.1000000000000085
+        },
+        {
+          "center_mm": [
+            -70.16043837531561,
+            200.0,
+            519.6465594617836
+          ],
+          "radius_mm": 2.0999999999999908
+        },
+        {
+          "center_mm": [
+            -185.1604383753156,
+            200.0,
+            519.646559461781
+          ],
+          "radius_mm": 2.1000000000000085
+        },
+        {
+          "center_mm": [
+            184.83956162468667,
+            200.0,
+            417.646559461789
+          ],
+          "radius_mm": 2.1000000000000085
+        },
+        {
+          "center_mm": [
+            0.49956162469550236,
+            200.0,
+            9.646559461785273
+          ],
+          "radius_mm": 2.100000000000024
+        },
+        {
+          "center_mm": [
+            -185.16043837530663,
+            200.0,
+            111.64655946178104
+          ],
+          "radius_mm": 2.1000000000000085
+        },
+        {
+          "center_mm": [
+            -185.16043837531333,
+            200.0,
+            417.64655946178107
+          ],
+          "radius_mm": 2.1000000000000085
+        },
+        {
+          "center_mm": [
+            -55.30492942556492,
+            200.0,
+            440.92062060066837
+          ],
+          "radius_mm": 2.0999999999999996
+        },
+        {
+          "center_mm": [
+            -55.30492942556697,
+            200.0,
+            490.9206206006676
+          ],
+          "radius_mm": 2.0999999999999996
+        },
+        {
+          "center_mm": [
+            54.695070574434624,
+            200.0,
+            440.92062060067167
+          ],
+          "radius_mm": 2.0999999999999996
+        },
+        {
+          "center_mm": [
+            -5.304929425565263,
+            200.0,
+            440.9206206006696
+          ],
+          "radius_mm": 2.0999999999999996
+        },
+        {
+          "center_mm": [
+            4.695070574432577,
+            200.0,
+            490.9206206006694
+          ],
+          "radius_mm": 2.1
+        },
+        {
+          "center_mm": [
+            -5.304929425567536,
+            200.0,
+            490.92062060066917
+          ],
+          "radius_mm": 2.0999999999999996
+        },
+        {
+          "center_mm": [
+            4.695070574434794,
+            200.0,
+            440.9206206006701
+          ],
+          "radius_mm": 2.1
+        },
+        {
+          "center_mm": [
+            -82.93935389617604,
+            200.0,
+            435.8800597062901
+          ],
+          "radius_mm": 1.6000000000000014
+        },
+        {
+          "center_mm": [
+            -144.7414558332182,
+            200.0,
+            501.30559139051445
+          ],
+          "radius_mm": 1.6000000000000014
+        },
+        {
+          "center_mm": [
+            -113.84040486469712,
+            200.0,
+            468.5928255484022
+          ],
+          "radius_mm": 20.0
+        }
+      ],
+      "closed_wires": 39,
+      "profile_area_mm2": 197326.65572271787,
+      "volume_mm3": 591979.9671681535,
+      "transparent": false
+    }
+  ],
+  "source": {
+    "repository": "https://github.com/Pole-Engineering/Crossant-235",
+    "commit": "e9409a087233f3ec95354594fe9b9cd9357b4ac5",
+    "license": "CC BY-NC-SA 4.0"
+  },
+  "thickness_status": "DXF profiles do not specify thickness. Viewer uses selectable 2/3/4 mm preview thickness; 3 mm reference mesh.",
+  "changes": [
+    "Projected sub-micrometre DXF Z residuals to the drawing plane",
+    "Preserved OCS mirroring, circular holes, arcs, bulges and cutouts",
+    "Registered side profiles 2 mm outward with preview spacers for gantry-end clearance; rear profile 5 mm outward between source front grill and housing",
+    "Aligned rear profile to native CPAP and cable port centres, repositioned source Grommet C into the matching DXF slot",
+    "Aligned eight rear filter holes with native M4 screw axes and translated the filter opening by their average correction",
+    "Extruded a selectable display thickness outward from the mounting plane; original Leadscrew Deck remains unchanged"
+  ],
+  "placement_corrections": {
+    "crossant_00090": [
+      151.316918,
+      0,
+      -22.165391
+    ]
+  },
+  "filter_hole_corrections": [
+    {
+      "original_mm": [
+        54.85859539355437,
+        491.130943825343
+      ],
+      "corrected_mm": [
+        54.69507057443219,
+        490.9206206006711
+      ],
+      "offset_mm": [
+        -0.16352481912218053,
+        -0.21032322467192444
+      ]
+    },
+    {
+      "original_mm": [
+        -55.0913445755952,
+        441.31819586135896
+      ],
+      "corrected_mm": [
+        -55.30492942556494,
+        440.92062060066837
+      ],
+      "offset_mm": [
+        -0.2135848499697417,
+        -0.39757526069058713
+      ]
+    },
+    {
+      "original_mm": [
+        -55.09134457559628,
+        491.1309438253405
+      ],
+      "corrected_mm": [
+        -55.30492942556696,
+        490.9206206006676
+      ],
+      "offset_mm": [
+        -0.2135848499706796,
+        -0.21032322467294762
+      ]
+    },
+    {
+      "original_mm": [
+        54.85859539355573,
+        441.3181958613609
+      ],
+      "corrected_mm": [
+        54.6950705744346,
+        440.9206206006717
+      ],
+      "offset_mm": [
+        -0.16352481912112893,
+        -0.39757526068916604
+      ]
+    },
+    {
+      "original_mm": [
+        -5.091344575595372,
+        441.3181958613601
+      ],
+      "corrected_mm": [
+        -5.304929425565264,
+        440.9206206006697
+      ],
+      "offset_mm": [
+        -0.2135848499698927,
+        -0.3975752606904166
+      ]
+    },
+    {
+      "original_mm": [
+        4.8585953935509,
+        491.130943825342
+      ],
+      "corrected_mm": [
+        4.6950705744325605,
+        490.92062060066945
+      ],
+      "offset_mm": [
+        -0.16352481911833916,
+        -0.2103232246725497
+      ]
+    },
+    {
+      "original_mm": [
+        -5.0913445755961675,
+        491.1309438253496
+      ],
+      "corrected_mm": [
+        -5.3049294255675115,
+        490.92062060066917
+      ],
+      "offset_mm": [
+        -0.21358484997134397,
+        -0.21032322468045095
+      ]
+    },
+    {
+      "original_mm": [
+        4.858595393551923,
+        441.3181958613602
+      ],
+      "corrected_mm": [
+        4.695070574434807,
+        440.92062060067
+      ],
+      "offset_mm": [
+        -0.16352481911711614,
+        -0.3975752606901892
+      ]
+    }
+  ],
+  "spacers": "Derived annular mounting spacers, 4.3 mm bore and 10 mm outer diameter; hardware/thread engagement not physically certified.",
+  "unavailable_panels": [
+    "front",
+    "top"
+  ],
+  "fasteners": "Additional frame panel screws/nuts are not part of the native source assembly; spacers and mounting holes are modeled, while existing filter screws are retained."
+}
